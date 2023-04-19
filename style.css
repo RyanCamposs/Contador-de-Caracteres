@@ -1,0 +1,30 @@
+body {
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#text {
+    width: 500px;
+    height: 400px;
+    border: 1px solid black;
+    text-align: start;
+}
+
+textarea {
+    font-size: 19px;
+}
+
+
+p {
+    text-align: center;
+    font-size: 23px;
+    font-weight: bold;
+}
+
+footer{
+    position: absolute;
+    bottom: 0;
+}
